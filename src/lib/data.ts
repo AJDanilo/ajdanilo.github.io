@@ -6,7 +6,7 @@ export const personalInfo = {
   resume: "/Rishikesh_S_Software_Engineer_Resume.pdf",
   profilePicture: "/profile.jpg",
   heroDescription:
-    "I build reliable software from the first requirement to production. My work spans web applications, backend systems, data, payments, and automation. I also build the safeguards and recovery tools that keep products running.",
+    "Soy economista",
 };
 
 export const workExperience = [
