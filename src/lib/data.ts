@@ -23,50 +23,25 @@ export const workExperience = [
  
     ],
     stack: [
-      "TypeScript",
-      "React",
-      "Next.js",
-      "Node.js",
-      "Bun",
-      "PostgreSQL",
-      "Drizzle ORM",
-      "Redis",
-      "AWS Lambda",
-      "Stripe Connect",
-      "Trigger.dev",
-      "Remotion",
-      "Tinybird",
-      "Vitest",
-      "Playwright",
-      "GitHub Actions",
-      "Sentry",
-      "PostHog",
+      "Advanced Excel",
+      "Power BI",
+      "Python in Excel",
+    
     ],
   },
-  {
-    company: "DevCrew",
-    location: "Coimbatore, India",
-    position: "Freelance Software Developer",
-    period: "Mar 2023 - Mar 2024",
-    achievements: [
-      "Built responsive React interfaces and JavaScript features across client projects.",
-      "Improved load times and data-fetching efficiency by optimizing frontend code.",
-    ],
-    stack: ["JavaScript", "React", "HTML & CSS", "REST APIs"],
-  },
+
 ];
 
 export const education = [
   {
-    institution: "Sri Krishna College of Engineering and Technology",
-    location: "Coimbatore, India",
-    degree: "Bachelor of Technology in Information Technology",
-    period: "Jun 2021 - Jun 2025",
+    institution: "Universidad del Valle",
+    location: "Cali, Colombia",
+    degree: "Economist",
+    period: "Aug 2020 - Mar 2026",
     achievements: [
-      "Served as President of the Department of Information Technology.",
-      "Represented the institution as a G20 student delegate.",
+      "Served as a member of the academic committee of the ECONS economics student group.",
       "Organized technical workshops and student events.",
-      "Represented the college at national and international hackathons, earning multiple awards.",
+
     ],
   },
 ];
@@ -123,24 +98,11 @@ export const selectedWork = [
 
 export const awards = [
   {
-    name: "Prodigi Cognizant Hackathon",
+    name: "Concurso de cuento corto",
     issuer: "Cognizant",
     date: "Feb 2023",
     type: "National",
-    position: "Second Runner-up",
-  },
-  {
-    name: "Cisco Thingqbator Hackathon",
-    issuer: "Cisco",
-    date: "Jan 2023",
-    type: "National",
     position: "First Runner-up",
   },
-  {
-    name: "IEEE YESIST12 Hackathon",
-    issuer: "IEEE",
-    date: "Sep 2022",
-    type: "International",
-    position: "Second Place",
-  },
+
 ];
