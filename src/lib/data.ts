@@ -1,12 +1,12 @@
 export const personalInfo = {
-  name: "Danilo A.J.",
-  email: "rkesh2003@gmail.com",
-  github: "https://github.com/rkeshs",
+  name: "Danilo Álvarez Jiménez",
+  email: "alvarezjimenezdanilo@gmail.com",
+  github: "https://github.com/AJDanilo",
   linkedin: "https://www.linkedin.com/in/rishikeshs/",
   resume: "/Rishikesh_S_Software_Engineer_Resume.pdf",
   profilePicture: "/profile.jpg",
   heroDescription:
-    "Soy economista",
+    "Hello: I essentially consider myself a very curious person and an artist. That's why I decided to become an economist, because history, philosophy, and numbers, from my point of view, require a strong artistic intelligence. Economic models and economic thinking are pure creativity. On this website, I want you to get to know a bit more about me, so I'm sharing not only my professional background, but also some of my writings and art.",
 };
 
 export const workExperience = [
