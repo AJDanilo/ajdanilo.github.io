@@ -11,16 +11,16 @@ export const personalInfo = {
 
 export const workExperience = [
   {
-    company: "Chatbyte GmbH",
-    location: "Remote",
-    position: "Software Engineer",
-    period: "Mar 2024 - Present",
+    company: "Kenvue",
+    location: "Yumbo, Colombia",
+    position: "Process Engineering Intern ",
+    period: "Sep 2025 - Mar 2026",
     achievements: [
-      "Deliver production features end to end across customer applications, internal tools, backend services, databases, and cloud jobs, from system design through testing, deployment, monitoring, and support.",
-      "Replaced legacy consent records with a searchable event model using repeatable migrations, transactions, batching, duplicate prevention, exports, and recovery tools.",
-      "Built platform capabilities for AI-assisted onboarding, multilingual and voice workflows, and SMS messaging with delivery receipts, batching, and streaming.",
-      "Built internal administration and content tools, introduced materialized views for heavy queries, and shipped affiliate tracking across frontend and backend systems.",
-      "Built release safeguards with typed contracts, automated tests, CI/CD, feature flags, monitoring, and targeted repair tools.",
+
+      "I provided support in the analysis of input savings reports and production processes at the plant.",
+      "I automated the analysis of parameter indicators and cycle times, achieving automated reports.",
+      " I carried out a project, seeking a reduction in the consumption of a cleaning supply",
+ 
     ],
     stack: [
       "TypeScript",
