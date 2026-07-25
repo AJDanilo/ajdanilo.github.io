@@ -73,28 +73,13 @@ export const education = [
 export const skills = [
   {
     label: "Languages",
-    items: ["Spanish (native speaker)", "English (Advanced)", "French (Adavanced)"],
+    items: ["Spanish (native speaker)", "English (Advanced)", "French (Advanced)"],
   },
   {
-    label: "Applications",
-    items: ["React", "Next.js", "React Native", "Node.js", "Bun"],
+    label: "Software",
+    items: ["R-Studio", "Advanced Excel", "Power BI", "Python", "Latex"],
   },
-  {
-    label: "Backend & data",
-    items: ["API design", "PostgreSQL", "Redis", "Drizzle ORM", "FastAPI", "Spring Boot"],
-  },
-  {
-    label: "Cloud & systems",
-    items: ["AWS Lambda", "Docker", "Linux", "Serverless Framework", "Background jobs"],
-  },
-  {
-    label: "AI & automation",
-    items: ["AI APIs", "AI agents", "RAG", "Trigger.dev", "Remotion", "Text-to-Speech"],
-  },
-  {
-    label: "Quality & delivery",
-    items: ["Vitest", "Playwright", "GitHub Actions", "Sentry", "PostHog", "Tinybird"],
-  },
+
 ];
 
 export const selectedWork = [
