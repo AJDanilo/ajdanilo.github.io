@@ -73,7 +73,7 @@ export const education = [
 export const skills = [
   {
     label: "Languages",
-    items: ["TypeScript", "JavaScript", "Python", "Java", "C++"],
+    items: ["Spanish (native speaker)", "English (Advanced)", "French (Adavanced)"],
   },
   {
     label: "Applications",
