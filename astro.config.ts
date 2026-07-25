@@ -5,7 +5,7 @@ import sitemap from "@astrojs/sitemap";
 import tailwindcss from "@tailwindcss/vite";
 
 // https://astro.build/config
-const site = process.env["ORIGIN"];
+const site = "https://ajdanilo.github.io";
 
 export default defineConfig({
   ...(site ? { site } : {}),
