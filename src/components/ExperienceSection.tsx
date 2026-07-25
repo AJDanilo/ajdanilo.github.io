@@ -12,8 +12,9 @@ export default function ExperienceSection() {
         </MotionWrapper>
         <MotionWrapper>
           <p className="mb-12 max-w-2xl text-lg leading-relaxed text-muted-foreground md:text-xl">
-            I work across the full product lifecycle: understanding the problem, designing the data,
-            building the feature, testing it, shipping it, and supporting it in production.
+             I am an economist with experience in quantitative investigation at the Universidad del Valle’s Research Seedling ANIF (Analítica e Ingeniería Financiera).
+              I excel in data analysis (R, Python), report writing, and academic support in micro/macroeconomics and econometrics. I am proactive, communicative, with a keen attention to detail and
+              excellent teamwork skills. 
           </p>
         </MotionWrapper>
         <div>
