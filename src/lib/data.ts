@@ -99,8 +99,8 @@ export const selectedWork = [
 export const awards = [
   {
     name: "Concurso de cuento corto",
-    issuer: "Cognizant",
-    date: "Feb 2023",
+    issuer: "Universidad del Valle",
+    date: "Nov 2016",
     type: "National",
     position: "First Runner-up",
   },
