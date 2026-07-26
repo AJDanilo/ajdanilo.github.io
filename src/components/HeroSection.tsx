@@ -76,14 +76,14 @@ export default function HeroSection() {
               variants={reveal}
             >
               <span className="h-3 w-3 bg-coral" aria-hidden="true" />
-              Software Engineer
+              Economist
             </m.div>
 
             <m.h1
               className="font-display whitespace-nowrap text-[clamp(2.5rem,11vw,5.5rem)] leading-[0.88] tracking-[0.01em] md:text-[clamp(3.8rem,6.5vw,5.5rem)]"
               variants={reveal}
             >
-              Rishikesh <span className="text-coral">S.</span>
+              Danilo <span className="text-coral">A. J.</span>
             </m.h1>
 
             <m.p
