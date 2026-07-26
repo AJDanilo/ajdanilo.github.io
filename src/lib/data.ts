@@ -39,7 +39,7 @@ export const education = [
     degree: "Economist",
     period: "Aug 2020 - Mar 2026",
     achievements: [
-      "Served as a member of the academic committee of the ECONS economics student group.",
+      "Served as a member of the academic committee of ECONS (economics student group).",
       "Organized technical workshops and student events.",
 
     ],
