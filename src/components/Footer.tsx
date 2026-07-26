@@ -10,7 +10,7 @@ export default function Footer() {
           <div>
             <p className="font-display text-4xl md:text-6xl">{personalInfo.name}</p>
             <p className="mt-2 text-sm font-semibold text-ink/70">
-              Building reliable products from idea to production.
+              Economista.
             </p>
             <p className="mt-5 text-xs text-ink/60">&copy; {new Date().getFullYear()}</p>
           </div>

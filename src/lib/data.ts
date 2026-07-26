@@ -2,8 +2,8 @@ export const personalInfo = {
   name: "Danilo Álvarez Jiménez",
   email: "alvarezjimenezdanilo@gmail.com",
   github: "https://github.com/AJDanilo",
-  linkedin: "https://www.linkedin.com/in/rishikeshs/",
-  resume: "/Rishikesh_S_Software_Engineer_Resume.pdf",
+  linkedin: "https://www.linkedin.com/in/danilo-a-j-43144938a?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+  resume: "/Rishikesh_S_Software_Engineer_Resume.pdf", //Me falta añadir mi resume, o decir que no lo queiro colocar
   profilePicture: "/profile.jpg",
   heroDescription:
     "Hello: I essentially consider myself a very curious person and an artist. That's why I decided to become an economist, because history, philosophy, and numbers, from my point of view, require a strong artistic intelligence. Economic models and economic thinking are pure creativity. On this website, I want you to get to know a bit more about me, so I'm sharing not only my professional background, but also some of my writings and art.",
@@ -19,7 +19,7 @@ export const workExperience = [
 
       "I provided support in the analysis of input savings reports and production processes at the plant.",
       "I automated the analysis of parameter indicators and cycle times, achieving automated reports.",
-      " I carried out a project, seeking a reduction in the consumption of a cleaning supply",
+      "I carried out a project, seeking a reduction in the consumption of a cleaning supply",
  
     ],
     stack: [
