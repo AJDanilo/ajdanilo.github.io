@@ -6,7 +6,7 @@ export const personalInfo = {
   resume: "/CV.pdf", //Me falta añadir mi resume, o decir que no lo queiro colocar
   profilePicture: "/profile.jpg",
   heroDescription:
-    "Hello: I essentially consider myself a very curious person and an artist. That's why I decided to become an economist, because history, philosophy, and numbers, from my point of view, require a strong artistic intelligence. Economic models and economic thinking are pure creativity. On this website, I want you to get to know a bit more about me, so I'm sharing not only my professional background, but also some of my writings and art.",
+    "I essentially consider myself a very curious person and an artist. That's why I decided to become an economist, because history, philosophy, and numbers, from my point of view, require a strong artistic intelligence. Economic models and economic thinking are pure creativity. On this website, I want you to get to know a bit more about me, so I'm sharing not only my professional background, but also some of my writings and art.",
 };
 
 export const workExperience = [
